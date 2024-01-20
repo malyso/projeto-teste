@@ -18,5 +18,8 @@ float distancia;
 distancia = calculadaDistancia(x1,y1,x2,y2);
 
 printf("Distancia: %f" , distancia);
+
+printf(" aaaasssiiiiimmmmmm");
+
 }
 
